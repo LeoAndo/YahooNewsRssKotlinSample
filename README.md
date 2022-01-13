@@ -1,5 +1,5 @@
 # YahooNewsRssKotlinSample
-RSS Reader Widget App Sample Project (Kotlin)
+RSS Reader Widget App Sample Project (Kotlin).
 
 # アプリ概要
 
